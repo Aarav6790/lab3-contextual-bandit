@@ -1,8 +1,8 @@
 # Lab 3: Contextual Bandit-Based News Article Recommendation System
 
-Name: Aarav
-Roll No.: U20230092
-Course: Reinforcement Learning Fundamentals
+Name: Aarav;
+Roll No.: U20230092;
+Course: Reinforcement Learning Fundamentals.
 
 
 ## Project Overview
